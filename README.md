@@ -1,0 +1,1 @@
+Learning dockerize microservices app and deploy to Azure with CI/CD
